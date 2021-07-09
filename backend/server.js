@@ -21,7 +21,7 @@ app.use('/',userroutes);
 
 
 app.use("/",(req,res)=>{
-    res.json("HellooklnHH123456");
+    res.json("Helloo Saaspact");
 });
 
 app.listen(5000,()=>{
